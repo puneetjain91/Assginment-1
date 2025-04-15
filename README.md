@@ -1,6 +1,7 @@
 # Assginment-1
+This modular approach ensures the project is scalable, reusable, and adheres to best practices 
 
-### Creating Part 1 and Part2  Terraform Directory Structure with AKS modules 
+### Creating Part 1 and Part2  Terraform Directory Structure with Azure modules 
 
 Terraform/
 ├── main.tf                # Entry point for the Terraform code
